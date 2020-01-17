@@ -4,6 +4,7 @@ import static java.lang.System.out;
 
 public class Main {
     public static void main(String[] args) {
+        //Creation of object and preforms a method call.
         sayHey trial1 = new sayHey("Trial 1 Complete.\n");
         trial1.display();
 
